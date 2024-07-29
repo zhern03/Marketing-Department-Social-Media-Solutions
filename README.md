@@ -8,11 +8,5 @@ This repository stores all the code and solutions for Group Tom & Jerries' parti
 - [Enyaw](https://github.com/Enyawww)
 - [ziluoh88](https://github.com/ziluoh88)
 
-## Slide URL
-[XXXXXXXXXXXXXX](XXXXXXXXXXXXXX)
-
 ## Google Sheet URL
 [Google Sheet](https://docs.google.com/spreadsheets/d/14fII3dHzzcEuMvOOnEWAOS2v-ALEa88WRT7RrhyQfn0/edit?gid=0#gid=0)
-
-## Pitch Video URL
-[Pitch Video](XXXXXXXXXXXXXX)
